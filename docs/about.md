@@ -5,16 +5,14 @@
 
 ## Sidekitt
 
- - Your websearch talking buddy with memory
-
+Websearch talking buddy with memory
 
 <table>
     <tr>
         <td width="900" align="center">
-            <p color="#787878">
-<img src="https://github.com/kustomzone/sidekitt/raw/refs/heads/main/imgs/sidekitt-logo.jpg" width="200px" height="50px">
-                <br>
- [Sidekitt help](https://github.com/kustomzone/sidekitt/docs/about.md)
+            <p color="#787878">  
+
+ [Sidekitt help](https://github.com/kustomzone/sidekitt/docs/about.md) 
               <br><br>
               <br>
             </p>
@@ -22,19 +20,11 @@
     </tr>
 </table>
 
-
 ### Commands
 
 - Chat normally - The assistant will decide if it needs to search
-
 - `/exit` or `quit` - Exit the application
 - `/clear` - Clear conversation memory
-- `/undo`  -
-- `/export`-
-- `/import`-
-- `/stats`-
-- `/research` -
-- `/listen` - 2-way talking option (experimental)
 
 ## How It Works
 
@@ -60,7 +50,7 @@ python main.py
 ```
 
 
----
+
 
 ### Credits
 
@@ -117,4 +107,3 @@ See `requirements.txt`:
 9. **Search history** - Remember what searches worked well
 10. **Configurable streaming** - Toggle streaming on/off
 
----
