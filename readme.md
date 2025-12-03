@@ -14,7 +14,8 @@
             <p color="#787878">
 <img src="https://github.com/kustomzone/sidekitt/raw/refs/heads/main/imgs/sidekitt-logo.jpg" width="200px" height="50px">
                 <br>
- [Sidekitt help](https://github.com/kustomzone/sidekitt/docs/about.md)
+                
+ [Sidekitt help](https://github.com/kustomzone/sidekitt/blob/main/docs/about.md)
               <br><br>
               <br>
             </p>
